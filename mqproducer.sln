@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mqproducer", "mqproducer.csproj", "{D47FAA8E-E729-48FE-A27D-200B1DD79EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D47FAA8E-E729-48FE-A27D-200B1DD79EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47FAA8E-E729-48FE-A27D-200B1DD79EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47FAA8E-E729-48FE-A27D-200B1DD79EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47FAA8E-E729-48FE-A27D-200B1DD79EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B12334B-5AE8-4C51-A94A-349B6F3AEF4B}
+	EndGlobalSection
+EndGlobal
